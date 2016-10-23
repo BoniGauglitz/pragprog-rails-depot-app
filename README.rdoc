@@ -1,6 +1,4 @@
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/BoniGauglitz/pragprog-rails-depot-app/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/BoniGauglitz/pragprog-rails-depot-app/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/BoniGauglitz/pragprog-rails-depot-app/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/BoniGauglitz/pragprog-rails-depot-app/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/BoniGauglitz/pragprog-rails-depot-app/badges/build.png?b=master)](https://scrutinizer-ci.com/g/BoniGauglitz/pragprog-rails-depot-app/build-status/master)
+https://scrutinizer-ci.com/g/BoniGauglitz/pragprog-rails-depot-app/badges/quality-score.png?b=master
 
 == README
 
