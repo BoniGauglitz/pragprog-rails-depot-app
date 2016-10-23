@@ -1,0 +1,7 @@
+Sun, 23 Oct 2016 00:19:34 -0200
+README.rdoc	Sat, 22 Oct 2016 22:50:11 -0200
+app/controllers/application_controller.rb	Sat, 22 Oct 2016 22:50:22 -0200
+app/controllers/products_controller.rb	Sun, 23 Oct 2016 00:17:29 -0200
+app/helpers/application_helper.rb	Sat, 22 Oct 2016 22:50:22 -0200
+app/helpers/products_helper.rb	Sun, 23 Oct 2016 00:17:29 -0200
+app/models/product.rb	Sun, 23 Oct 2016 00:17:29 -0200
