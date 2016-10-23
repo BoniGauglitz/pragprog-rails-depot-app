@@ -1,7 +1,5 @@
 == README
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/BoniGauglitz/pragprog-rails-depot-app/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/BoniGauglitz/pragprog-rails-depot-app/?branch=master)
-
 This application is a depot manager app.
 
 It will have 2 "actors" buyers and sellers.
